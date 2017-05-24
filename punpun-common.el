@@ -55,6 +55,10 @@
    (ace-jump-face-background :inherit shadow)
    (ace-jump-face-foreground :foreground red)
 
+   ;; ace-window.el
+   (aw-background-face :foreground base4)
+   (aw-leading-char-face :foreground base1 :background red)
+
    ;; avy.el
    (avy-lead-face :foreground base1 :background red)
    (avy-lead-face-0 :foreground base1 :background pink)
